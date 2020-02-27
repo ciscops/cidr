@@ -9,4 +9,4 @@
 ## Vision:
    To Facilitate a robust NetDevOps community
    
-[The Dets](https://ciscops.github.io/msy/presentations/overview.html)
+[The Dets](https://ciscops.github.io/cidr/presentations/overview.html#/)
