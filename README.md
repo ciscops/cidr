@@ -1,7 +1,7 @@
 ### Cisco's US Public Sector Developer Community
 
 ## Supported BY:
-![CIDR](cidr_logo_small.png) A community of Public Sector SAs defined by their values
+![CIDR](CIDR-01.png) A community of Public Sector SAs defined by their values
 
 ## Cisco's CIDR Values:
    Community, Integrity, Disruption, Relevance
